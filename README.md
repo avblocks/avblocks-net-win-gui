@@ -1,2 +1,2 @@
-# avblocks-sdk-net
-AVBlocks for .NET
+# avblocks-net-win
+AVBlocks .NET SDK for Windows
